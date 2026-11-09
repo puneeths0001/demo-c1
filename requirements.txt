@@ -1,0 +1,7 @@
+streamlit>=1.45
+pandas
+plotly
+requests
+tzdata
+streamlit-js-eval
+streamlit-autorefresh
